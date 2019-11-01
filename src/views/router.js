@@ -1,0 +1,6 @@
+import Vue form 'vue'
+import Router from 'vue-router'
+import Chat form './components/Chat.vue'
+import Room form './components/Room.vue'
+import AddRoom from './components/AddRoom.Vue'
+import Login from './components/Login.vue'
