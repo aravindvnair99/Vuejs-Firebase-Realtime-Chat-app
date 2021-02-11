@@ -1,4 +1,4 @@
-# vuejs-firebase-realtime-chat
+# vuejs-firebase-realtime-chat ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
 
 ## Project setup
 ```
